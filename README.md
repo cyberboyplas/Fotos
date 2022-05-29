@@ -1,2 +1,2 @@
 # photos
-Fotos para hacer clone, WhatsApp, Instagram, Facebook etc
+Example photos for seeker, (whatsapp groups and phishing).
